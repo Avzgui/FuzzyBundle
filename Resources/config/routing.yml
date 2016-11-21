@@ -1,0 +1,3 @@
+fuzzy_homepage:
+    path:     /
+    defaults: { _controller: FuzzyBundle:Default:index }
